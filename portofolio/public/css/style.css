@@ -190,7 +190,7 @@ h6 {
 # Navigation Menu
 --------------------------------------------------------------*/
 /**
-* Desktop Navigation 
+* Desktop Navigation
 */
 .navbar {
   padding: 0;
@@ -262,7 +262,7 @@ h6 {
 }
 
 /**
-* Mobile Navigation 
+* Mobile Navigation
 */
 .mobile-nav-toggle {
   color: #fff;
@@ -1192,4 +1192,9 @@ section .container {
 
 .credits a:hover {
   color: #fff;
+}
+
+a.primary
+{
+    color: #fff;
 }

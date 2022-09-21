@@ -27,8 +27,8 @@
               <p>Category : Website</p>
               <h4>Codeigtier, PHP, CSS, Javascript</h4>
               <div class="portfolio-links">
-                <a href="{{asset('img/portfolio/portfolio-1.jpg')}}" data-gallery="portfolioGallery" class="portfolio-lightbox" title="App 1"><i class="bx bx-plus"></i></a>
-                <a href="https://github.com/dhiyadc/digiweb" target="_blank" data-gallery="portfolioDetailsGallery" data-glightbox="type: external" class="portfolio-details-lightbox" title="Portfolio Details"><i class="bx bx-link"></i></a>
+                <a href="{{asset('img/portfolio/portfolio-1.jpg')}}" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Digital Creative Company Profile" data-glightbox='description: &lt;a href="https://github.com/dhiyadc/digiweb"&gt;Click this link to see the <b>Project</b>&lt;/a&gt;'><i class="bx bx-plus"></i></a>
+                <a href="https://github.com/dhiyadc/digiweb" target="_blank" data-gallery="portfolioDetailsGallery" ><i class="bx bx-link"></i></a>
               </div>
             </div>
           </div>
@@ -42,8 +42,8 @@
               <p>Category : Website App</p>
               <h6>Codeigniter , PHP , Javascript, MySQL</h6>
               <div class="portfolio-links">
-                <a href="{{asset('img/portfolio/portfolio-2.jpg')}}" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Web 3"><i class="bx bx-plus"></i></a>
-                <a href="https://www.classico.co.id/" target="_blank" data-gallery="portfolioDetailsGallery" data-glightbox="type: external" class="portfolio-details-lightbox" title="Portfolio Details"><i class="bx bx-link"></i></a>
+                <a href="{{asset('img/portfolio/portfolio-2.jpg')}}" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Classico Learning Management System" data-glightbox='description: &lt;a href="https://www.classico.co.id/"&gt;Click this link to see the <b>Project</b>&lt;/a&gt;'><i class="bx bx-plus"></i></a>
+                <a href="https://www.classico.co.id/" target="_blank" data-gallery="portfolioDetailsGallery" ><i class="bx bx-link"></i></a>
               </div>
             </div>
           </div>
@@ -57,8 +57,8 @@
               <p>Category : Internal Website </p>
               <h6>Codeigniter, PHP , CSS, MySQL</h6>
               <div class="portfolio-links">
-                <a href="{{asset('img/portfolio/portfolio-3.jpg')}}" data-gallery="portfolioGallery" class="portfolio-lightbox" title="App 2"><i class="bx bx-plus"></i></a>
-                <a href="https://www.figma.com/file/1fWhOi1L9eRUx84PEUGImf/PTBA-LOGIN-PAGE" target="_blank" data-gallery="portfolioDetailsGallery" data-glightbox="type: external" class="portfolio-details-lightbox" title="Portfolio Details"><i class="bx bx-link"></i></a>
+                <a href="{{asset('img/portfolio/portfolio-3.jpg')}}" data-gallery="portfolioGallery" class="portfolio-lightbox" title="PT Bukit Asam Coal Management System" data-glightbox='description: &lt;a href="https://www.figma.com/file/1fWhOi1L9eRUx84PEUGImf/PTBA-LOGIN-PAGE"&gt;Click this link to see the <b>Project</b>&lt;/a&gt;'><i class="bx bx-plus"></i></a>
+                <a href="https://www.figma.com/file/1fWhOi1L9eRUx84PEUGImf/PTBA-LOGIN-PAGE" target="_blank" data-gallery="portfolioDetailsGallery" ><i class="bx bx-link"></i></a>
               </div>
             </div>
           </div>
@@ -72,8 +72,8 @@
               <p>Category : Internal Website</p>
               <h6>Codeigniter, PHP, CSS, MySQL</h6>
               <div class="portfolio-links">
-                <a href="{{asset('img/portfolio/portfolio-4.jpg')}}" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Card 2"><i class="bx bx-plus"></i></a>
-                <a href="https://www.figma.com/file/6Qvoq7sVhMzt7oqRjh8Ekd/Untitled" target="_blank" data-gallery="portfolioDetailsGallery" data-glightbox="type: external" class="portfolio-details-lightbox" title="Portfolio Details"><i class="bx bx-link"></i></a>
+                <a href="{{asset('img/portfolio/portfolio-4.jpg')}}" data-gallery="portfolioGallery" class="portfolio-lightbox" title="RSUD Kayuagung Hospital Management System" data-glightbox='description: &lt;a href="https://www.figma.com/file/6Qvoq7sVhMzt7oqRjh8Ekd/Untitled"&gt;Click this link to see the <b>Project</b>&lt;/a&gt;'><i class="bx bx-plus"></i></a>
+                <a href="https://www.figma.com/file/6Qvoq7sVhMzt7oqRjh8Ekd/Untitled" target="_blank" data-gallery="portfolioDetailsGallery" ><i class="bx bx-link"></i></a>
               </div>
             </div>
           </div>
@@ -87,8 +87,8 @@
               <p>Category : Company Website</p>
               <h6>ReactJS, Typescript, CSS, NodeJS, JavaScript</h6>
               <div class="portfolio-links">
-                <a href="{{asset('img/portfolio/portfolio-5.jpg')}}" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Web 2"><i class="bx bx-plus"></i></a>
-                <a href="https://www.figma.com/file/xGyuKVlQJokGOydcFDHrJc/ALsa?node-id=305%3A1013" target="_blank" data-gallery="portfolioDetailsGallery" data-glightbox="type: external" class="portfolio-details-lightbox" title="Portfolio Details"><i class="bx bx-link"></i></a>
+                <a href="{{asset('img/portfolio/portfolio-5.jpg')}}" data-gallery="portfolioGallery" class="portfolio-lightbox" title="ALSA Laundry Management System" data-glightbox='description: &lt;a href="https://www.figma.com/file/xGyuKVlQJokGOydcFDHrJc/ALsa?node-id=305%3A1013"&gt;Click this link to see the <b>Project</b>&lt;/a&gt;'><i class="bx bx-plus"></i></a>
+                <a href="https://www.figma.com/file/xGyuKVlQJokGOydcFDHrJc/ALsa?node-id=305%3A1013" target="_blank" data-gallery="portfolioDetailsGallery" ><i class="bx bx-link"></i></a>
               </div>
             </div>
           </div>
@@ -102,8 +102,8 @@
               <p>Category : Mobile UI</p>
               <h6>ReactJS, Typescript, CSS, NodeJS, JavaScript, Figma</h6>
               <div class="portfolio-links">
-                <a href="{{asset('img/portfolio/portfolio-6.jpg')}}" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Web 2"><i class="bx bx-plus"></i></a>
-                <a href="https://www.figma.com/file/mfI4UDicKqg7Dw9ixneUqr/ISell?node-id=0%3A1" target="_blank" data-gallery="portfolioDetailsGallery" data-glightbox="type: external" class="portfolio-details-lightbox" title="Portfolio Details"><i class="bx bx-link"></i></a>
+                <a href="{{asset('img/portfolio/portfolio-6.jpg')}}" data-gallery="portfolioGallery" class="portfolio-lightbox" title="ISell Mobile E Commmerce App" data-glightbox='description: &lt;a href="https://www.figma.com/file/mfI4UDicKqg7Dw9ixneUqr/ISell?node-id=0%3A1"&gt;Click this link to see the <b>Project</b>&lt;/a&gt;'><i class="bx bx-plus"></i></a>
+                <a href="https://www.figma.com/file/mfI4UDicKqg7Dw9ixneUqr/ISell?node-id=0%3A1" target="_blank" data-gallery="portfolioDetailsGallery"><i class="bx bx-link"></i></a>
               </div>
             </div>
           </div>
