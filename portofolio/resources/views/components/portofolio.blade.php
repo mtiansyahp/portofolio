@@ -28,7 +28,7 @@
               <h4>Codeigtier, PHP, CSS, Javascript</h4>
               <div class="portfolio-links">
                 <a href="{{asset('img/portfolio/portfolio-1.jpg')}}" data-gallery="portfolioGallery" class="portfolio-lightbox" title="App 1"><i class="bx bx-plus"></i></a>
-                <a href="portfolio-details.html" data-gallery="portfolioDetailsGallery" data-glightbox="type: external" class="portfolio-details-lightbox" title="Portfolio Details"><i class="bx bx-link"></i></a>
+                <a href="https://github.com/dhiyadc/digiweb" target="_blank" data-gallery="portfolioDetailsGallery" data-glightbox="type: external" class="portfolio-details-lightbox" title="Portfolio Details"><i class="bx bx-link"></i></a>
               </div>
             </div>
           </div>
@@ -43,7 +43,7 @@
               <h6>Codeigniter , PHP , Javascript, MySQL</h6>
               <div class="portfolio-links">
                 <a href="{{asset('img/portfolio/portfolio-2.jpg')}}" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Web 3"><i class="bx bx-plus"></i></a>
-                <a href="portfolio-details.html" data-gallery="portfolioDetailsGallery" data-glightbox="type: external" class="portfolio-details-lightbox" title="Portfolio Details"><i class="bx bx-link"></i></a>
+                <a href="https://www.classico.co.id/" target="_blank" data-gallery="portfolioDetailsGallery" data-glightbox="type: external" class="portfolio-details-lightbox" title="Portfolio Details"><i class="bx bx-link"></i></a>
               </div>
             </div>
           </div>
@@ -55,10 +55,10 @@
             <div class="portfolio-info">
               <h4>PT Bukit Asam Coal Management System</h4>
               <p>Category : Internal Website </p>
-              <h6>Codeigniter , PHP , CSS, MySQL</h6>
+              <h6>Codeigniter, PHP , CSS, MySQL</h6>
               <div class="portfolio-links">
                 <a href="{{asset('img/portfolio/portfolio-3.jpg')}}" data-gallery="portfolioGallery" class="portfolio-lightbox" title="App 2"><i class="bx bx-plus"></i></a>
-                <a href="portfolio-details.html" data-gallery="portfolioDetailsGallery" data-glightbox="type: external" class="portfolio-details-lightbox" title="Portfolio Details"><i class="bx bx-link"></i></a>
+                <a href="https://www.figma.com/file/1fWhOi1L9eRUx84PEUGImf/PTBA-LOGIN-PAGE" target="_blank" data-gallery="portfolioDetailsGallery" data-glightbox="type: external" class="portfolio-details-lightbox" title="Portfolio Details"><i class="bx bx-link"></i></a>
               </div>
             </div>
           </div>
@@ -70,10 +70,10 @@
             <div class="portfolio-info">
               <h4>RSUD Kayuagung Management System</h4>
               <p>Category : Internal Website</p>
-              <h6>Codeigniter , PHP, CSS, MySQL</h6>
+              <h6>Codeigniter, PHP, CSS, MySQL</h6>
               <div class="portfolio-links">
                 <a href="{{asset('img/portfolio/portfolio-4.jpg')}}" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Card 2"><i class="bx bx-plus"></i></a>
-                <a href="portfolio-details.html" data-gallery="portfolioDetailsGallery" data-glightbox="type: external" class="portfolio-details-lightbox" title="Portfolio Details"><i class="bx bx-link"></i></a>
+                <a href="https://www.figma.com/file/6Qvoq7sVhMzt7oqRjh8Ekd/Untitled" target="_blank" data-gallery="portfolioDetailsGallery" data-glightbox="type: external" class="portfolio-details-lightbox" title="Portfolio Details"><i class="bx bx-link"></i></a>
               </div>
             </div>
           </div>
@@ -88,7 +88,7 @@
               <h6>ReactJS, Typescript, CSS, NodeJS, JavaScript</h6>
               <div class="portfolio-links">
                 <a href="{{asset('img/portfolio/portfolio-5.jpg')}}" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Web 2"><i class="bx bx-plus"></i></a>
-                <a href="portfolio-details.html" data-gallery="portfolioDetailsGallery" data-glightbox="type: external" class="portfolio-details-lightbox" title="Portfolio Details"><i class="bx bx-link"></i></a>
+                <a href="https://www.figma.com/file/xGyuKVlQJokGOydcFDHrJc/ALsa?node-id=305%3A1013" target="_blank" data-gallery="portfolioDetailsGallery" data-glightbox="type: external" class="portfolio-details-lightbox" title="Portfolio Details"><i class="bx bx-link"></i></a>
               </div>
             </div>
           </div>
@@ -103,12 +103,11 @@
               <h6>ReactJS, Typescript, CSS, NodeJS, JavaScript, Figma</h6>
               <div class="portfolio-links">
                 <a href="{{asset('img/portfolio/portfolio-6.jpg')}}" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Web 2"><i class="bx bx-plus"></i></a>
-                <a href="portfolio-details.html" data-gallery="portfolioDetailsGallery" data-glightbox="type: external" class="portfolio-details-lightbox" title="Portfolio Details"><i class="bx bx-link"></i></a>
+                <a href="https://www.figma.com/file/mfI4UDicKqg7Dw9ixneUqr/ISell?node-id=0%3A1" target="_blank" data-gallery="portfolioDetailsGallery" data-glightbox="type: external" class="portfolio-details-lightbox" title="Portfolio Details"><i class="bx bx-link"></i></a>
               </div>
             </div>
           </div>
         </div>
-
       </div>
 
     </div>
